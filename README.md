@@ -7,8 +7,8 @@
 ### Tabela de Conteúdos
   * [Principais tecnologias usadas](#principais-tecnologias-usadas)
   * [Principais funcionalidades](#principais-funcionalidades)
+  * [Como executar](#como-executar)
   * [Segurança aplicada](#seguranca-aplicada)
-  * [Como executar](#como=executar)
 
 ### Principais tecnologias usadas
 <img src="https://img.shields.io/static/v1?label=PHP&message=language&color=blue&style=for-the-badge"/>
@@ -66,4 +66,7 @@ cd blog
        host = "localhost"
        user = "root"
        senha = ""
+       OBS.: Ja deixei um usuario administrador cadastrado no arquivo sql.
+       Email admin@email.com
+       Senha admin
     ```
