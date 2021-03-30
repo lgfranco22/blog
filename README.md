@@ -1,4 +1,4 @@
-<h1 align="center">Blog TECHCOD v2.30.3 :blue_car: </h1>
+<h1 align="center">Blog TECHCOD v2.30.3 </h1>
 <h2>Descrição do Projeto</h2>
 <p align="justify">Basicamente é um blog simples com controle de privilégio pra usuario PHP</p>
 <!-- foto do projeto  --->
@@ -20,9 +20,9 @@
 <img src="https://img.shields.io/static/v1?label=CSS3&message=style_sheet&color=cian&style=for-the-badge&logo=CSS"/>
 
 ### Principais funcionalidades
-- :blue_car: Verificação de login com AJAX
-- :blue_car: Verificação e cadastro de usuario com AJAX e autenticação automatica na conta
-- :blue_car: Autenticação e controle de usuario administrador do sistema
+- Verificação de login com AJAX
+- Verificação e cadastro de usuario com AJAX e autenticação automatica na conta
+- Autenticação e controle de usuario administrador do sistema
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
