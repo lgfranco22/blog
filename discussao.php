@@ -75,7 +75,7 @@
 		?>
 			<div class="area-comentario">
             		<img src="imagens/perfil.png" alt="">
-            		<h3><?php echo $v['nome_pessoa'];?></h3>
+            		<h3><?php echo addslashes(htmlentities($v['nome_pessoa']));?></h3>
         	    	<h4>
 			<?php
 				$data = new DateTime($v['dia']);
@@ -103,7 +103,7 @@
 			?>
 
 			</h4>
-	            	<p><?php echo $v['comentarios']; ?></p>
+	            	<p><?php addslashes(htmlentities(echo $v['comentarios'])); ?></p>
         	</div>
 		<?php
 		}
