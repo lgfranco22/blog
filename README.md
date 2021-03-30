@@ -26,13 +26,13 @@
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
-## Segurança aplicada
+### Segurança aplicada
 - Proteção contra HTML Injection
 - Proteção contra SQL Injection
 - Proteção contra XSS Storage e Reflected
 - Senha armazenada no banco de dados com password_hash
 
-## Como executar
+### Como executar
 - No terminal navegue até o diretório onde ficam seus projetos dentro do seu apache e clone o projeto do GitHub
 ```shell
 git clone git@github.com:lgfranco22/blog.git
