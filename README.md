@@ -8,7 +8,7 @@
   * [Principais tecnologias usadas](#principais-tecnologias-usadas)
   * [Principais funcionalidades](#principais-funcionalidades)
   * [Como executar](#como-executar)
-  * [Segurança aplicada](#seguranca-aplicada)
+  * [Segurança aplicada](#segurança-aplicada)
 
 ### Principais tecnologias usadas
 <img src="https://img.shields.io/static/v1?label=PHP&message=language&color=blue&style=for-the-badge"/>
