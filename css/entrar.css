@@ -1,0 +1,86 @@
+ @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../imagens/fundo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+form{
+    width: 350px;
+    margin: 10px auto;
+    padding: 25px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, .4);
+}
+
+img{
+    width: 20px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+input{
+    display: block;
+    float: left;
+    width: 87%;
+    height: 30px;
+    font-size: 11pt;
+    color: rgba(0, 0, 0, .7);
+    padding: 5px;
+    margin-bottom: 15px;
+    outline: none;
+}
+
+h1{
+    font-size: 11pt;
+    padding: 10px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+input[type=submit]{
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    background-color: rgba(123, 104, 238);
+    color: white;
+    border: none;
+    float: right;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .4);
+}
+
+#btn-entrar{
+    margin-left: 30px;
+    width: 318px;
+    height: 40px;
+}
+
+a{
+    display: block;
+    text-align: left;
+    clear: both;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#spn{
+    text-align: center;
+    display: block;
+    color: yellow;
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: 'Playfair Display', serif;
+    text-shadow: 1px 1px 3px gray;
+}
